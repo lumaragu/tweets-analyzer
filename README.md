@@ -1,4 +1,4 @@
-# Tweets Analyzer
+# 2 Tweets Analyzer
 ## Usage
 In order to run this application, run the following commands.
 
